@@ -1,0 +1,32 @@
+
+h1{
+    font-family: 'Anton', sans-serif; text-align: center;
+}
+
+.youtube-link{
+    padding: 10px 20px;
+    color:whitesmoke);
+    border-radius: 5px;
+    background-color:rgba(197, 64, 16, 0.993);
+    text-decoration: none;
+    font-weight: 700;
+    
+}
+.box-style{
+    border: 5px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%;
+}
+section{
+    height: 500px;
+}
+img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    padding: 2%;
+}
+
